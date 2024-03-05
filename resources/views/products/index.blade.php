@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Product</h1>
+    <h1>Products</h1>
     <div>index</div>
 </body>
 </html>
